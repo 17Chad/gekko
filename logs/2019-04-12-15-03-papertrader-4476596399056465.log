@@ -1,0 +1,33 @@
+2019-04-12 15:03:57 (INFO):	Setting up Gekko in realtime mode
+2019-04-12 15:03:57 (INFO):	
+2019-04-12 15:03:57 (INFO):	Setting up:
+2019-04-12 15:03:57 (INFO):		 Candle writer
+2019-04-12 15:03:57 (INFO):		 Store candles in a database
+2019-04-12 15:03:57 (INFO):	
+
+2019-04-12 15:03:57 (INFO):	Setting up:
+2019-04-12 15:03:57 (INFO):		 Trading Advisor
+2019-04-12 15:03:57 (INFO):		 Calculate trading advice
+2019-04-12 15:03:57 (INFO):		 Using the strategy: neuralnet
+2019-04-12 15:03:57 (ERROR):	Failed to load indicator Alligator
+2019-04-12 15:03:57 (ERROR):	Failed to load indicator HEIKEN
+2019-04-12 15:03:57 (ERROR):	Failed to load indicator PIVOTHIGHLOW
+2019-04-12 15:03:57 (ERROR):	Failed to load indicator RSI-beta
+2019-04-12 15:03:57 (ERROR):	Failed to load indicator Stoch
+2019-04-12 15:03:57 (INFO):	
+
+2019-04-12 15:03:57 (INFO):	Setting up:
+2019-04-12 15:03:57 (INFO):		 Paper Trader
+2019-04-12 15:03:57 (INFO):		 Paper trader that simulates fake trades.
+2019-04-12 15:03:57 (INFO):	
+
+2019-04-12 15:03:57 (INFO):	Setting up:
+2019-04-12 15:03:57 (INFO):		 Performance Analyzer
+2019-04-12 15:03:57 (INFO):		 Analyzes performances of trades
+2019-04-12 15:03:57 (INFO):	
+
+2019-04-12 15:03:57 (INFO):	Setting up:
+2019-04-12 15:03:57 (INFO):		 Child to parent
+2019-04-12 15:03:57 (INFO):		 Relays events from the child to the parent process
+2019-04-12 15:03:57 (INFO):	
+
